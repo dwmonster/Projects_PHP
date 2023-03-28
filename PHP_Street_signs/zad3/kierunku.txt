@@ -1,0 +1,5 @@
+kierunku-e-1.gif|tablica przedrogowskazowa
+kierunku-e-1a.gif|tablica przedrogowskazowa na autostradzie
+kierunku-e-1b.gif|tablica przedrogowskazowa przed wjazdem na autostradę
+kierunku-e-6.gif|drogowskaz do lotniska
+kierunku-e-7.gif|drogowskaz do przystani wodnej lub żeglugi

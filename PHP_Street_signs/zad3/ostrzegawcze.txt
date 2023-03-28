@@ -1,0 +1,11 @@
+ostrzegwcze-a-1.gif|niebezpieczny zakręt w prawo
+ostrzegwcze-a-2.gif|niebezpieczny zakręt w lewo
+ostrzegwcze-a-3.gif|dwa niebezpieczne zakręty - pierwszy w prawo
+ostrzegwcze-a-4.gif|dwa niebezpieczne zakręty - pierwszy w lewo
+ostrzegwcze-a-5.gif|skrzyżowanie dróg
+ostrzegwcze-a-6a.gif|skrzyżowanie z drogą podporządkowaną występującą po obu stronach
+ostrzegwcze-a-6b.gif|skrzyżowanie z drogą podporządkowaną występującą z prawej strony
+ostrzegwcze-a-6c.gif|skrzyżowanie z drogą podporządkowaną występującą z lewej strony
+ostrzegwcze-a-6d.gif|wlot drogi jednokierunkowej z prawej stronyy
+ostrzegwcze-a-6e.gif|wlot drogi jednokierunkowej z lewej strony
+ostrzegwcze-a-7.gif|ustąp pierwszeństwa przejazdu

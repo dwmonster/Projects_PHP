@@ -1,0 +1,11 @@
+Adamski, Jan, informatyk
+Babecki, Nikodem, administrator
+Czajka, Mikołaj, programista
+Czoch, Bernard, informatyk
+Grudzień, Ireneusz, menager
+Izdebska, Anna, programista
+Kowalska, Ewa, sekretarka
+Łukasiński, Tomasz, administrator
+Mruk, Antoni, prezes
+Pieczko, Rafał, księgowy
+Sośnierz, Józef, asystent

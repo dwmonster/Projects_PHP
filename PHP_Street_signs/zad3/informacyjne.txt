@@ -1,0 +1,7 @@
+informacyjne-d-1.gif|droga z pierwszeństwem
+informacyjne-d-2.gif|koniec drogi z pierwszeństwem przejazdu
+informacyjne-d-3.gif|droga jednokierunkowa
+informacyjne-d-4a.gif|droga bez przejazdu
+informacyjne-d-5.gif|pierwszeństwo na zwężonym odcinku drogi
+informacyjne-d-9.gif|autostrada
+informacyjne-d-10.gif|koniec autostrady

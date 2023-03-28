@@ -1,0 +1,5 @@
+Ostrzegawcze*znaki.php?kat=ostrzegawcze
+Zakazu*znaki.php?kat=zakazu
+Nakazu*znaki.php?kat=nakazu
+Informacyjne*znaki.php?kat=informacyjne
+Kierunku i miejscowości*znaki.php?kat=kierunku

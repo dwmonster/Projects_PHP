@@ -1,0 +1,7 @@
+nakazu-c-1.gif|nakaz jazdy w prawo (skręcanie przed znakiem)
+nakazu-c-2.gif|nakaz jazdy w prawo (skręcanie za znakiem)
+nakazu-c-3.gif|nakaz jazdy w lewo (skręcanie przed znakiem)
+nakazu-c-4.gif|nakaz jazdy w lewo (skręcanie za znakiem)
+nakazu-c-6.gif|nakaz jazdy prosto lub w prawo
+nakazu-c-7.gif|nakaz jazdy prosto lub w lewo
+nakazu-c-14.gif|prędkość minimalna

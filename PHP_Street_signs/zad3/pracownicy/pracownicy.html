@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title> Firma XXX </title>
+	<meta charset="utf-8">
+	<style>
+		hr { width: 20%; text-align: left; margin-left: 0;}
+	</style>
+</head>
+<body>
+	<h3> Pracownicy naszej firmy: </h3>
+	<hr>
+		Jan Adamski - informatyk
+	<br> Nikodem Babecki - administrator
+	<br> Mikołaj Czajka - programista
+	<br> Brenard Czoch - informatyk 
+	<br> Ireneusz Grudzień - menager 
+	<br> Anna Izdebska - programista 
+	<br> Ewa Kowalska - sekretarka
+	<br> Tomasz Łukasiński - administrator
+	<br> Antoni Mruk - prezes 
+	<br> Rafał Pieczko - księgowy 
+	<br> Józef Sośnierz - asystent 
+	<br> 
+	
+<?php
+$plik = file('dane.txt');
+$tabcount = count($plik);
+	for ($i=0;$i<$tabcount;$i++)
+	{
+		$wiersz = explode(',',$plik[$i]);
+		echo $wiersz[1]." ".$wiersz[0]." ".$wiersz[2]."<br>\n";
+	}
+
+
+?>
+
+</body>
+</html>
